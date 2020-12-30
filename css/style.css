@@ -1,0 +1,87 @@
+#intro {
+  background-color: #ff4c68;
+  color: #fff;
+  padding: 5% 0 10% 0;
+}
+
+body {
+  font-family:'Noto Sans KR', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-family:'Noto Sans KR', sans-serif;
+  font-weight: 500;
+  font-size: 3.5rem;
+  line-height: 3;
+  padding-bottom: 5%;
+}
+
+li{
+padding-bottom: 5px;
+}
+
+#onlygirl {
+  background-color: #e6b566;
+  color: #fff;
+  padding: 5% 5%;
+}
+
+#twogirl {
+  background-color: #008891;
+  color: #fff;
+  padding: 5% 5%;
+}
+
+#onlyhyomi {
+  background-color: #70af85;
+  color: #fff;
+  padding: 5% 5%;
+}
+
+#namsachin {
+  background-color: #433d3c;
+  color: #fff;
+  padding: 5% 5%;
+}
+
+.Hyomi{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  color:#fff;
+  padding-top: 10%;
+}
+
+.please{
+  font-size: 3rem;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.title-image{
+  margin: 10% 35% 5%;
+  width: 30%;
+  height: 50%;
+  border-radius: 10%;
+}
+
+.contents{
+  text-align: left;
+  padding-left: 15%;
+  font-size: 1.5rem;
+}
+
+.opt{
+  margin: 10px 0 10px 0;
+  padding: 10px 0 10px 0;
+  font-size: 1.5rem;
+}
+
+.click{
+  font-size: 3rem;
+  padding-bottom: 10px;
+}
+
+.opt2{
+  margin-top: 5%;
+}
