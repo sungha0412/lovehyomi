@@ -1,5 +1,5 @@
 #intro {
-  background-color: #fdcfdf;
+  background-color: #e05297;
   color: #fff;
   padding: 5% 0 20% 0;
 }
@@ -24,25 +24,25 @@ padding-bottom: 5px;
 #onlygirl {
   background-color: #e6b566;
   color: #fff;
-  padding: 40% 40%;
+  padding: 40% 5%;
 }
 
 #twogirl {
   background-color: #008891;
   color: #fff;
-  padding: 40% 40%;
+  padding: 40% 5%;
 }
 
 #onlyhyomi {
   background-color: #70af85;
   color: #fff;
-  padding: 40% 40%;
+  padding: 40% 5%;
 }
 
 #namsachin {
   background-color: #433d3c;
   color: #fff;
-  padding: 40% 40%;
+  padding: 40% 5%;
 }
 
 .Hyomi{
@@ -74,7 +74,7 @@ padding-bottom: 5px;
 .opt{
   margin: 10px 0 10px 0;
   padding: 10px 0 10px 0;
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 
 .click{
