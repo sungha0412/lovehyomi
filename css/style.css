@@ -1,7 +1,7 @@
 #intro {
-  background-color: #ff4c68;
+  background-color: #fdcfdf;
   color: #fff;
-  padding: 5% 0 10% 0;
+  padding: 5% 0 20% 0;
 }
 
 body {
@@ -24,25 +24,25 @@ padding-bottom: 5px;
 #onlygirl {
   background-color: #e6b566;
   color: #fff;
-  padding: 5% 5%;
+  padding: 40% 40%;
 }
 
 #twogirl {
   background-color: #008891;
   color: #fff;
-  padding: 5% 5%;
+  padding: 40% 40%;
 }
 
 #onlyhyomi {
   background-color: #70af85;
   color: #fff;
-  padding: 5% 5%;
+  padding: 40% 40%;
 }
 
 #namsachin {
   background-color: #433d3c;
   color: #fff;
-  padding: 5% 5%;
+  padding: 40% 40%;
 }
 
 .Hyomi{
